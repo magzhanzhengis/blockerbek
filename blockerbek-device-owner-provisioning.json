@@ -1,5 +1,5 @@
 {
   "android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME": "com.blockerbek/.service.BlockerDeviceAdmin",
-  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://raw.githubusercontent.com/magzhanzhengis/blockerbek/main/app-debug.apk",
-  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "s3NGTtKnaU8dzyydXh0G2vufRRNOy4_i9Q17Wy1vJfQ"
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://raw.githubusercontent.com/magzhanzhengis/blockerbek/main/app-release.apk",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "FC38n1ByHsuPqHXwblQsgUS_aIWMR0VDIFY2YRjNvIs"
 }
